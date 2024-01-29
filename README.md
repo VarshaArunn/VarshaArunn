@@ -4,5 +4,5 @@
   <a href="">Twitter</a> /
   <a href="https://www.kaggle.com/">Kaggle</a>
   <br><br>
-  <img src="" />
+  <img src="https://github.com/VarshaArunn/VarshaArunn/blob/main/stars.gif" />
 </p>
