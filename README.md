@@ -1,4 +1,4 @@
-<h3 align="center">Welcome 🍵</h3>
+<h3 align="center">Hello 🍵</h3>
 <p align="center">
   <a href="https://www.hackerrank.com/profile/varshamadakannu">HackerRank</a> /
   <a href="">Twitter</a> /
