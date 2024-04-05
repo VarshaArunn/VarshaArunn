@@ -32,7 +32,7 @@
 <p align="left">
  <a href="https://linkedin.com/in/varsha-a-569601301/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
 <a href="https://twitter.com/VarshaArunn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="35" /></a>
- <a href="https://github/VarshaArunn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="35" /></a>
+ <a href="https://medium.com/@varshaarunkumarr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="35" width="35" /></a>
 
 </p>
  <h3 align="center"> ✨ My GitHub Activity ✨</h3>  
