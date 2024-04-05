@@ -30,8 +30,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="[[https://linkedin.com/in/varsha-a-569601301/]]" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
-<a href="[[https://twitter.com/VarshaArunn]]" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="35" /></a>
+ <a href="https://linkedin.com/in/varsha-a-569601301/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="35" width="35" /></a>
+<a href="https://twitter.com/VarshaArunn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="35" /></a>
  <a href="https://github/VarshaArunn" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="35" width="35" /></a>
 
 </p>
